@@ -1,4 +1,4 @@
-package algo.client;
+package algo.tree.client;
 
 import algo.Node;
 import algo.tree.api.TreeTraversal;
